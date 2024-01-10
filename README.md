@@ -18,7 +18,7 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 
 ## Project
 
-## [Notebook 1: Identifying the problem and inspecting the data](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB1%20Identifying%20the%20problem%20and%20inspecting%20the%20data.ipynb)
+## [Notebook 1:] Identifying the problem and inspecting the data (https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB1%20Identifying%20the%20problem%20and%20inspecting%20the%20data.ipynb)
 
 
 
