@@ -20,6 +20,11 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 
 ## [Notebook 1:](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB1%20Identifying%20the%20problem%20and%20inspecting%20the%20data.ipynb) Identifying the problem and inspecting the data
 
+## [Notebook 2:](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB2%20Exploratory%20data%20analysis.ipynb) Exploratory data analysis
+
+## [Notebook 3:](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB3%20Data%20pre-processing.ipynb) Data pre-processing
+
+## [Notebook 4:](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB4%20Predictive%20model.ipynb) Predictive model
 
 
 
