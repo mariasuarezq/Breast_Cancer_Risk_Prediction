@@ -22,13 +22,13 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 In this notebook, I am becoming familiar with the data through data exploration techniques, using Python libraries such as Pandas and NumPy.
 
 ## [Notebook 2:](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB2%20Exploratory%20data%20analysis.ipynb) Exploratory data analysis
-In this notebook, I am becoming familiar with the data by employing data exploration and visualization techniques using Python libraries such as Pandas, Matplotlib, and Seaborn.
+In this notebook, I am becoming familiar with the data by employing data visualization techniques using Python libraries such as Pandas, Matplotlib and Seaborn.
 
 ## [Notebook 3:](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB3%20Data%20pre-processing.ipynb) Data pre-processing
 In this notebook, I employ feature selection to reduce high-dimensional data and utilize feature extraction techniques for the purpose of reducing dimensionality.
 
 ## [Notebook 4:](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB4%20Predictive%20model.ipynb) Predictive model
-
+In this notebook, I develop a predictive model using the Logistic Regression machine learning algorithm to forecast the diagnosis of a breast tumor. The diagnosis is a binary variable (benign or malignant). Additionally, I build the predictive model employing K-NN, Random Forest, and SVM algorithms, and I compare the results across all of them.
 
 
 
