@@ -9,15 +9,15 @@ We will use in this proyect the "Breast Cancer Wisconsin (Diagnostic) Data Set",
 Since the labels in the data are discrete, the prediction falls into two categories: the patient has a malignant tumor or the patient has a benign tumor. Therefore, we have a classification problem.
 
 ## Table of Contents
-The analysis is divided into four sections, saved in juypter notebooks in this repository
+The analysis is divided into four sections, saved in juypter notebooks in this repository as follows:
 - [Identifying the problem and inspecting the data](#identifying-the-problem-and-inspecting-the-data)
 - [Exploratory data analysis](#exploratory-data-analysis)
 - [Data pre-processing](#data-pre-processing)
 - [Predictive model](#predictive-model)
 
-## Instalación
-Describe los pasos necesarios para instalar y configurar tu proyecto. Puedes proporcionar comandos de instalación o requisitos específicos.
 
-```bash
-npm install
+## Project
+- [Notebook 1: Identifying the problem and inspecting the data](#notebook-1-identifying-the-problem-and-inspecting-the-data)
+
+
   
