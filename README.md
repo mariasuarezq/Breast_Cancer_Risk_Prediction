@@ -19,11 +19,13 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 ## Project
 
 ## [Notebook 1:](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB1%20Identifying%20the%20problem%20and%20inspecting%20the%20data.ipynb) Identifying the problem and inspecting the data
-In this notebook, I am getting familiar with the data using data exploration techniques, using Python libraries such us Pandas or Numpy.
+In this notebook, I am becoming familiar with the data through data exploration techniques, using Python libraries such as Pandas and NumPy.
 
 ## [Notebook 2:](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB2%20Exploratory%20data%20analysis.ipynb) Exploratory data analysis
+In this notebook, I am becoming familiar with the data by employing data exploration and visualization techniques using Python libraries such as Pandas, Matplotlib, and Seaborn.
 
 ## [Notebook 3:](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB3%20Data%20pre-processing.ipynb) Data pre-processing
+In this notebook, I employ feature selection to reduce high-dimensional data and utilize feature extraction techniques for the purpose of reducing dimensionality.
 
 ## [Notebook 4:](https://github.com/mariasuarezq/Breast_Cancer_Risk_Prediction/blob/main/NB4%20Predictive%20model.ipynb) Predictive model
 
