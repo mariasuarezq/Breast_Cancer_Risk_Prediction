@@ -18,7 +18,8 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 
 ## Project
 
-## [Notebook 1: Identifying the problem and inspecting the data](#nb1-identifying-the-problem-and-inspecting-the-data)
+## [Notebook 1: Identifying the problem and inspecting the data](nb1-identifying-the-problem-and-inspecting-the-data.ipynb)
+
 
 
 
