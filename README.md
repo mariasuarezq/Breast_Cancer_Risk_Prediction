@@ -17,7 +17,8 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 
 
 ## Project
-- [Notebook 1: Identifying the problem and inspecting the data](#notebook-1-identifying-the-problem-and-inspecting-the-data)
+
+## [Notebook 1: Identifying the problem and inspecting the data](#notebook-1-identifying-the-problem-and-inspecting-the-data)
 
 
 - <span style="color: blue">**[Notebook 1: Identifying the problem and Getting data](#notebook-1-identifying-the-problem-and-getting-data)**</span>
